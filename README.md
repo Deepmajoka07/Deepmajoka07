@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deep.172914@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **The sentence, "The quick brown fox jumps over the lazy dog" uses every letter in the English language. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
