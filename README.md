@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
+![MasterHead](https://www.kindpng.com/picc/m/616-6162032_banner-programming-hd-png-download.png)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
