@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepmajoka07" target="blank"><img src="https://img.shields.io/twitter/follow/deepmajoka07?logo=twitter&style=for-the-badge" alt="deepmajoka07" /></a> </p>
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning **Java Backend **
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
